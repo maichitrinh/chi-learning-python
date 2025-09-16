@@ -17,5 +17,5 @@ while a == True:
         a = False
     # Else
     else: 
-        #   Print invalide choicey
+        #   Print invalide choice
         print("Invalid choice!")
